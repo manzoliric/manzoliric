@@ -1,16 +1,29 @@
-## Hi there 👋
+# Richard Manzoli
 
-<!--
-**manzoliric/manzoliric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Sou desenvolvedor front-end e tech lead com foco em criação de produtos digitais escaláveis e de alta qualidade.  
+Compartilho conteúdo técnico, experiências reais da rotina de liderança e contribuições para a comunidade tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e Interesses
+
+- ⚡ Front-end: Vue 3, Nuxt 3, TypeScript, Pinia, GraphQL
+- 🧪 Testes: Playwright, Vitest
+- 🛠️ Ferramentas: Vite, Yarn, Git, CI/CD
+- 📚 Boas práticas, legibilidade, organização de código
+- 👥 Liderança técnica, code review, colaboração entre times
+- 🎙️ Criador de conteúdo (Instagram, Medium, YouTube em breve)
+
+---
+
+## 🌐 Onde me encontrar
+
+- 📸 [Instagram](https://instagram.com/manzoli.tech)
+- 🐦 [Twitter](https://twitter.com/manzoli.tech)
+- ✍️ [Medium](https://medium.com/@manzoli.tech)
+- 💼 [LinkedIn](https://linkedin.com/in/richard-manzoli)
+
+---
+
+> *"Tech Lead que ainda ama escrever código."*  
+> *Mais do que entregar features — foco em produto, pessoas e boas decisões técnicas.*
