@@ -18,9 +18,9 @@ Compartilho conteúdo técnico, experiências reais da rotina de liderança e co
 
 ## 🌐 Onde me encontrar
 
-- 📸 [Instagram](https://instagram.com/manzoli.tech)
-- 🐦 [Twitter](https://twitter.com/manzoli.tech)
-- ✍️ [Medium](https://medium.com/@manzoli.tech)
+- 📸 [Instagram](https://instagram.com/manzoliric)
+- 🐦 [Twitter](https://twitter.com/manzoliric)
+- ✍️ [Medium](https://medium.com/@manzoliric)
 - 💼 [LinkedIn](https://linkedin.com/in/richard-manzoli)
 
 ---
